@@ -1,0 +1,61 @@
+.nazwa-klasy {
+    border: 3px dashed rgb(73, 165, 94); 
+    background-color: rgb(21, 77, 77); 
+    color: white; 
+    padding: 20px 15px 20px 45px; 
+    margin: 50px;
+    }
+
+.font {
+    font-size: 20px;
+}
+
+.nav-list li {
+    display: inline;
+    padding: 0 8px;
+}
+
+.nav-list {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    text-align: center;
+}
+
+button {
+	all: unset;
+    cursor: pointer;
+}
+
+.button-save {
+    background-color: palevioletred;
+    color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    width: 70px;
+    height: auto;
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+}
+
+.header__h1{
+    font-size: 28px;
+}
+
+.header__h2{
+    font-size: 28px;
+}
+
+.header__h2-title{
+    font-size: 20px;
+}
+
+.header__h2-date{
+    font-size: 16px;
+}
